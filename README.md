@@ -40,3 +40,4 @@
 ![image](https://user-images.githubusercontent.com/112066513/194222128-48d07406-a81f-46d3-bd4a-eb3b7dfb411f.png)
 ![image](https://user-images.githubusercontent.com/112066513/194222206-2b765e27-f93d-414e-99b2-b305e66c484d.png)
 ## experiment output 8
+![image](https://user-images.githubusercontent.com/112066513/194230960-dd3aece9-e4e9-4750-8287-217b749f3460.png)
