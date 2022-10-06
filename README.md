@@ -33,3 +33,4 @@
 ![image](https://user-images.githubusercontent.com/112066513/194221587-82e6d606-0399-46db-9d7f-6a9a23d2450f.png)
 ## experiment output 6
 ![image](https://user-images.githubusercontent.com/112066513/194221761-0420eae4-3864-4eb8-ad14-0cc82f0fce12.png)
+![image](https://user-images.githubusercontent.com/112066513/194221843-fb64288f-c45e-4dae-adb6-54bc8fdae369.png)
