@@ -24,3 +24,4 @@
 ![image](https://user-images.githubusercontent.com/112066513/194213088-e1369d10-7fa5-4f36-8a39-9214b9422ab5.png)
 ![image](https://user-images.githubusercontent.com/112066513/194213193-4bb8bec2-3ddf-4c20-a563-c6cfa5ba04ec.png)
 ##experiment output 5
+![image](https://user-images.githubusercontent.com/112066513/194220747-114def02-1613-4aa8-b3c4-dc48c80fb168.png)
