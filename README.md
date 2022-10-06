@@ -64,4 +64,6 @@
 ## experiment output 15
 ![image](https://user-images.githubusercontent.com/112066513/194256948-1b4f2575-0902-4ff7-99e8-c04d150dee06.png)
 ## experiment output 16
+![image](https://user-images.githubusercontent.com/112066513/194257560-348e7ec0-0bcb-4646-bbfd-60ed972e0293.png)
+## experiment output 17
 
