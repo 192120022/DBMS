@@ -51,3 +51,5 @@
 ## experiment output 10
 ![image](https://user-images.githubusercontent.com/112066513/194247009-3c713e64-44df-4a30-a053-20c4032a0c61.png)
 ![image](https://user-images.githubusercontent.com/112066513/194247180-9d094d6c-4589-4539-af09-a8b3e2075eaa.png)
+## experiment output 11
+![image](https://user-images.githubusercontent.com/112066513/194248686-9668379a-0ac0-4cd6-8623-5e1e11818f6c.png)
