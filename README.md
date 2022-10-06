@@ -31,3 +31,5 @@
 ![image](https://user-images.githubusercontent.com/112066513/194221400-d5adab08-a0e5-4c6b-b8de-de702f1f8e6b.png)
 ![image](https://user-images.githubusercontent.com/112066513/194221511-57a34e1d-9bad-4341-beb1-833bd51a7cfd.png)
 ![image](https://user-images.githubusercontent.com/112066513/194221587-82e6d606-0399-46db-9d7f-6a9a23d2450f.png)
+## experiment output 6
+![image](https://user-images.githubusercontent.com/112066513/194221761-0420eae4-3864-4eb8-ad14-0cc82f0fce12.png)
