@@ -69,4 +69,25 @@
 ![image](https://user-images.githubusercontent.com/112066513/194257759-cc619ef5-3765-443b-8897-9734a795ce7a.png)
 ## experiment output 18
 ![image](https://user-images.githubusercontent.com/112066513/194258102-4e8afb54-4dd8-4908-8c80-8e186d829acc.png)
+## experiment output 19
+<?php
+$host=
+$password=””;
+$conn=mysqli_connect($host,$user,$password);
+if(!$conn)
+{
+Die(‘couldnot connect:’,mysql_connect_error());
+}
+echo”connectsuccessfully(‘br/>’)”;
+$sql=’Create database mydb’;
+$sql="create table emp(id int,namevarchar(20) NOT NULL,empsalary INT NOT NULL,primary key(id))";
+$sql=”insert into emp(id,name,empsalary) values(2222,RANA,200000)”;
+$sql=”delete from emp where id=1”;
+$sql=”updateemp set empsalary=2500000 where id=2222”;
+if(mysqli_query($conn,$sql))
+{echo ”operations failed failed”,mysqli_error($conn);
+}
+mysqli_close($conn);
+?>
+## experiment output 20
 
