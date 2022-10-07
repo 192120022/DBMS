@@ -70,7 +70,7 @@
 ## experiment output 18
 ![image](https://user-images.githubusercontent.com/112066513/194258102-4e8afb54-4dd8-4908-8c80-8e186d829acc.png)
 ## experiment output 19
-
+![image](https://user-images.githubusercontent.com/112066513/194504887-50e02378-148c-47d2-987d-9f9ddfeb6a89.png)
 ## experiment output 20
 
 ## experiment output 21
