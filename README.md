@@ -87,4 +87,5 @@
 ![image](https://user-images.githubusercontent.com/112066513/194508748-23700828-067e-464c-bca2-b1a1a268a361.png)
 ![image](https://user-images.githubusercontent.com/112066513/194508990-f76e9304-e85e-4138-baff-4e8b7acbce00.png)
 ## experiment output 25
+![image](https://user-images.githubusercontent.com/112066513/194509783-15d306d0-db0e-4b02-8238-d64f0d8adcbb.png)
 
