@@ -80,4 +80,6 @@
 ## experiment output 22
 ![image](https://user-images.githubusercontent.com/112066513/194506522-febd09d3-ae7b-499c-8f50-6e842e8a9194.png)
 ![image](https://user-images.githubusercontent.com/112066513/194506760-4f04dfd0-4059-4596-9d91-6f587724ed6d.png)
+## experiment output 23
+![image](https://user-images.githubusercontent.com/112066513/194508022-49bd5459-3bcc-4e5f-b46d-3ef858caabc3.png)
 
