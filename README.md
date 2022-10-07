@@ -70,55 +70,11 @@
 ## experiment output 18
 ![image](https://user-images.githubusercontent.com/112066513/194258102-4e8afb54-4dd8-4908-8c80-8e186d829acc.png)
 ## experiment output 19
-<?php
-$host=
-$password=””;
-$conn=mysqli_connect($host,$user,$password);
-if(!$conn)
-{
-Die(‘couldnot connect:’,mysql_connect_error());
-}
-echo”connectsuccessfully(‘br/>’)”;
-$sql=’Create database mydb’;
-$sql="create table emp(id int,namevarchar(20) NOT NULL,empsalary INT NOT NULL,primary key(id))";
-$sql=”insert into emp(id,name,empsalary) values(2222,RANA,200000)”;
-$sql=”delete from emp where id=1”;
-$sql=”updateemp set empsalary=2500000 where id=2222”;
-if(mysqli_query($conn,$sql))
-{echo ”operations failed failed”,mysqli_error($conn);
-}
-mysqli_close($conn);
-?>
+
 ## experiment output 20
-import java.sql.*;
-class DBConnect
-{
-	Statement s;
-	Connection c;
-	DBConnect()
-	{
-		try
-		{
-			Class.forName("com.mysql.jdbc.Driver");
-			c=DriverManager.getConnection("jdbc:mysql://localhost/testDB","root","1234@");  //testDB is dbname,   root is dbusername and dbpassword
-			s=c.createStatement();
-			s.execute("create table JavaLab(name text(20),surname text(10),city text(10))");
-			System.out.println("Table created");
-		}
-		catch(Exception e)
-		{
-			e.printStackTrace();
-		}
-	}
-	public static void main(String args[])
-	{
-		DBConnect x=new DBConnect();
-	}
-}
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
+
 ## experiment output 21
 ![image](https://user-images.githubusercontent.com/112066513/194503866-144bd6bf-b0fd-4f14-bd76-dbc43190ee72.png)
 ![image](https://user-images.githubusercontent.com/112066513/194504095-2eb18900-0d09-481b-bb58-207d148edd01.png)
+![image](https://user-images.githubusercontent.com/112066513/194504438-eac3d284-3273-4796-ad93-2278227bc7a6.png)
 
